@@ -1,7 +1,4 @@
 //-----------------------------------------------------------------------------
-//  Ugonna Ezeokoli
-//  uezeokol
-//  2024 Winter CSE101 PA8
 //  WordFrequency.cpp
 //  Parses through each line of an input file and inserts each alphabetical only 
 //  words into dictionary (RBT) with key representing the # of occurences of the word in the file
