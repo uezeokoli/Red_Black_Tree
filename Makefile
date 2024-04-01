@@ -1,6 +1,4 @@
 #------------------------------------------------------------------------------
-#  Makefile for CSE 101 Programming Assignment 8
-#
 #  make                     makes WordFrequency
 #  make 					makes Order
 #  make DictionaryTest    makes DictionaryTest
